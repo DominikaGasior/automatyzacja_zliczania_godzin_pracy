@@ -1,7 +1,7 @@
 # 🕒 Automatyzacja zliczania godzin pracy – System w Arkuszach Google
 
 ## 🖥 Podgląd systemu
-![Podgląd systemu]()
+![Podgląd systemu](https://github.com/DominikaGasior/automatyzacja_zliczania_godzin_pracy/blob/707933de1b1d8e40bcea71f2cf1158c412dfb5c4/portfolio.png)
 
 ---
 
